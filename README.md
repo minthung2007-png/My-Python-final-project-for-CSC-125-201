@@ -1,12 +1,12 @@
 # CSC-125-201 Final Project
 
 # Project Description
-[Một hoặc hai câu mô tả chương trình của bạn làm gì]
+[One or two sentences describing what your program does]
 
 # Features
-- Dictionary storing [dictionary lưu trữ gì]
-- Custom function `[tên_hàm]` that [hàm làm gì]
-- [for hoặc while] loop that [vòng lặp làm gì]
+- Dictionary storing [what your dictionary stores]
+- Custom function `[function_name]` that [what it does]
+- [for or while] loop that [what it loops over]
 - User input with validation
 - Formatted output
 
